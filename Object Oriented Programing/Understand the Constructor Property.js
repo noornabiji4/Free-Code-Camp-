@@ -11,4 +11,3 @@ function joinDogFraternity(candidate) {
         return false;
       }
 }
-.
