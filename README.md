@@ -5,3 +5,4 @@ Debugging
 Basic Data Structures
 Basic Algorithm Scripting
 Object Oriented Programming
+Functional Programming
