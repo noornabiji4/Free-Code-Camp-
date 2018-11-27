@@ -8,4 +8,5 @@ function sumAll(arr) {
   return(calculate);
 }
 
+
 sumAll([1, 4]);
