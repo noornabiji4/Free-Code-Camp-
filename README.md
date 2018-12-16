@@ -4,6 +4,6 @@
 # Debugging
 # Basic Data Structures
 # Basic Algorithm Scripting
-Object Oriented Programming
+# Object Oriented Programming
 Functional Programming
 Intermediate Algorithm Scripting
