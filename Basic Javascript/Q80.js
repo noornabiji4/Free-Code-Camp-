@@ -9,7 +9,7 @@ var ourDog = {
 // Only change code below this line.
 
 var myDog = {
-    "name": "Noor",
+    "name": "Pappy",
     "legs": 4,
     "tails": 1,
     "friends": ["All!"]
