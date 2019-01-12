@@ -1,6 +1,6 @@
-## Free Code Camp
+## Free CodeCamp
 ## All Questions 
-## Basic JavaScript
+## Basic JavaScripts
 ## ES6 Programe For FreeCodeCamp
 ## Regular Expressions
 ## Debugging
