@@ -1,4 +1,4 @@
-## Free CodeCamp Solution
+## FreeCodeCamp Solution
 
 ## Basic JavaScripts
 ## ES6 Programe For FreeCodeCamp
@@ -9,3 +9,5 @@
 ## Object Oriented Programming
 ## Functional Programming
 ## Intermediate Algorithm Scripting
+
+
